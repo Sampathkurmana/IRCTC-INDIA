@@ -1,4 +1,4 @@
-# 🚆 RailYatra — Indian Railway Reservation System
+# 🚆 IRCTC — Indian Railway Reservation System
 
 A full-stack Railway Ticket Booking System built with **PHP, MySQL, HTML, CSS & JavaScript** for XAMPP/phpMyAdmin.
 
